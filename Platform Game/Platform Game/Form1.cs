@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace Platform_Game
 {
     public partial class Form1 : Form
@@ -182,6 +184,8 @@ namespace Platform_Game
             horizontalPlatform.Left = 275;
             verticalPlatform.Top = 581;
             gameTimer.Start();
+
+            Debug.WriteLine("Reset");
         }
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hans\\Desktop\\C# Projects\\Platform\\Platform Game\\Platform Game\\Platform Game.csproj",
+      "projectUniqueName": "C:\\Users\\Hans\\Desktop\\C# Projects\\Platform Game\\Platform Game\\Platform Game.csproj",
       "projectName": "Platform Game",
-      "projectPath": "C:\\Users\\Hans\\Desktop\\C# Projects\\Platform\\Platform Game\\Platform Game\\Platform Game.csproj",
+      "projectPath": "C:\\Users\\Hans\\Desktop\\C# Projects\\Platform Game\\Platform Game\\Platform Game.csproj",
       "packagesPath": "C:\\Users\\Hans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hans\\Desktop\\C# Projects\\Platform\\Platform Game\\Platform Game\\obj\\",
+      "outputPath": "C:\\Users\\Hans\\Desktop\\C# Projects\\Platform Game\\Platform Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
