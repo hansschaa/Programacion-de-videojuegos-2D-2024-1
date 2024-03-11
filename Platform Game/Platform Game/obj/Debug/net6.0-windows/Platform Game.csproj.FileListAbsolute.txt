@@ -1,0 +1,17 @@
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.csproj.AssemblyReference.cache
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform_Game.Form1.resources
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.csproj.GenerateResource.cache
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.AssemblyInfoInputs.cache
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.AssemblyInfo.cs
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.csproj.CoreCompileInputs.cache
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\bin\Debug\net6.0-windows\Platform Game.exe
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\bin\Debug\net6.0-windows\Platform Game.deps.json
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\bin\Debug\net6.0-windows\Platform Game.runtimeconfig.json
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\bin\Debug\net6.0-windows\Platform Game.dll
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\bin\Debug\net6.0-windows\Platform Game.pdb
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.dll
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\refint\Platform Game.dll
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.pdb
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\Platform Game.genruntimeconfig.cache
+C:\Users\Hans\Desktop\C# Projects\Platform\Platform Game\Platform Game\obj\Debug\net6.0-windows\ref\Platform Game.dll
